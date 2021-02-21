@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: #3a8df4;
+}
+Input {
+  color: #426fa5;
+}
+
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
